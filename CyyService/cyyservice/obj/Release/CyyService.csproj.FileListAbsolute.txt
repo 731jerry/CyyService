@@ -1,0 +1,17 @@
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\CyyService.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\CyyService.DetailForm.resources
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\CyyService.Form1.resources
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\CyyService.Properties.Resources.resources
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\CyyService.csproj.GenerateResource.Cache
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\bin\Release\彩盈盈后台管理系统.exe.config
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\bin\Release\config\location.xml
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\bin\Release\彩盈盈后台管理系统.exe.manifest
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\bin\Release\彩盈盈后台管理系统.application
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\bin\Release\彩盈盈后台管理系统.exe
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\bin\Release\彩盈盈后台管理系统.pdb
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\CyyService.update.resources
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\CyyService.UserLogin.resources
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\彩盈盈后台管理系统.exe.manifest
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\彩盈盈后台管理系统.application
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\彩盈盈后台管理系统.exe
+\\psf\Dropbox\CYY-product\CYY\CyyService\CyyService\obj\Release\彩盈盈后台管理系统.pdb
